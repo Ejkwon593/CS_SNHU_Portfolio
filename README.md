@@ -1,5 +1,5 @@
 # CS_SNHU_Portfolio
-Portfolio for CS210 Project
+Portfolio for CS210 Project 210_Project_Three
 Summarize the project and what problem it was solving:
 This project involved building a program to track the frequency of grocery items purchased in a store. The store generates records of items purchased, and the goal was to analyze these records to identify how frequently each item is bought. The problem being solved is the need for the store to understand customer preferences in order to optimize the store layout, particularly in the produce section. The program accomplishes this by reading item data from a file, allowing users to look up the frequency of specific items, print all item frequencies, and display the frequency data as a text-based histogram.
 
